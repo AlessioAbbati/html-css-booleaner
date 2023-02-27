@@ -2,7 +2,6 @@ header{
     background-image: url("../img/pattern.png");
     background-color: rgb(34, 34, 238);
     background-size: contain;
-    
 }
 body{
     position: relative;
@@ -15,9 +14,7 @@ main{
 .title{
     width: 150px;
     height: auto;
-    
-    
-
+    margin-left: 65px;
 }
 .evidenziato{
     background-color: yellow;
