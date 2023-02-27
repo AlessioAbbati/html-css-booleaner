@@ -12,6 +12,13 @@ header{
 .evidenziato{
     background-color: yellow;
 }
+table{
+    width: 100%;
+}
+.row1{
+    background-color: rgb(19, 92, 248);
+    color: white;
+}
 .img1{
     position: relative;
 }
