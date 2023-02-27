@@ -4,9 +4,19 @@ header{
     background-size: contain;
     
 }
+body{
+    position: relative;
+}
+main{
+    position: absolute;
+    left: 5%;
+    right: 5%;
+}
 .title{
     width: 150px;
     height: auto;
+    
+    
 
 }
 .evidenziato{
