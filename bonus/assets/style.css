@@ -1,0 +1,44 @@
+header{
+    background-image: url("../img/pattern.png");
+    background-color: rgb(34, 34, 238);
+    background-size: contain;
+    
+}
+.title{
+    width: 150px;
+    height: auto;
+
+}
+.evidenziato{
+    background-color: yellow;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+thead{
+    background-color: rgb(19, 92, 248);
+    color: white;
+    text-align: left;
+}
+tbody{
+    background-color: aqua;
+}
+.cell{
+    width: 25%;
+}
+.row2{
+    background-color: white;
+}
+.img1{
+    position: relative;
+}
+.img2{
+position: relative;
+}
+.link{
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+}
