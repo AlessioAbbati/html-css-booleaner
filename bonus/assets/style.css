@@ -45,11 +45,8 @@ tbody{
 .row2{
     background-color: white;
 }
-.img1{
+.img1, .img2{
     position: relative;
-}
-.img2{
-position: relative;
 }
 .link{
     position: absolute;
