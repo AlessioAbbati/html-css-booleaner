@@ -1,10 +1,11 @@
 header{
     background-image: url("../img/pattern.png");
-    background-color: rgb(34, 34, 238);
+    background-color: #4EA0FF;
     background-size: contain;
 }
 body{
     position: relative;
+    margin: 0;
 }
 main{
     position: absolute;
@@ -15,6 +16,9 @@ main{
     width: 150px;
     height: auto;
     margin-left: 65px;
+}
+.subtitle{
+    
 }
 .evidenziato{
     background-color: yellow;

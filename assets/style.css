@@ -1,13 +1,22 @@
 header{
     background-image: url("../img/pattern.png");
-    background-color: rgb(34, 34, 238);
+    background-color: #4EA0FF;
     background-size: contain;
-    
+    padding-top: 15px;
+}
+body{
+    margin: 0;
 }
 .title{
-    width: 150px;
+    width: 120px;
     height: auto;
 
+}
+.sub1, .sub2{
+    color: gray;
+}
+.sub2{
+    font-size: .7rem;
 }
 .evidenziato{
     background-color: yellow;
